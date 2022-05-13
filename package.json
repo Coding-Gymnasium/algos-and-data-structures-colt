@@ -1,0 +1,18 @@
+{
+  "name": "algos-and-data-structures-colt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coding-Gymnasium/algos-and-data-structures-colt/issues"
+  },
+  "homepage": "https://github.com/Coding-Gymnasium/algos-and-data-structures-colt#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
